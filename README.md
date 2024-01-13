@@ -1,1 +1,1 @@
-# Price.io
+## Price.io - A website made by Yong Shyan and Jake to track Inflation rates around the globe

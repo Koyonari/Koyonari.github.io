@@ -16,7 +16,7 @@ body {
 }
 
 .webpage {
-    background-color: black;
+    background-color: rgb(27, 27, 27);
     background-repeat: repeat;
     font-family: 'League Spartan', monospace;
 }
@@ -33,6 +33,53 @@ button:hover {
 }
 
 .navbar-nav .nav-link {
-    margin-right: 1vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.nav-item {
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+
+.navbar-brand img {
     margin-left: 1vw;
+    width: 10vw;
+    height: auto;
+    margin-right: 47vw;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-brand img {
+        width: 20vw;
+        height: auto;
+    }
+}
+
+/* Inflation tracker */
+.inflation {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 100vw;
+    background-color: rgb(12, 12, 12);
+    padding: 20px;
+    margin-top: 2.5vh;
+    margin-bottom: 5vh;
+    border-top: 2px dashed rgb(189, 189, 189);
+    border-bottom: 2px dashed rgb(189, 189, 189);
+}
+
+.inflation h2 {
+    font-size: 4vw;
+    font-weight: 600;
+    margin-bottom: 2vh;
+}
+
+.inflation p {
+    font-size: 1.5vw;
+    font-weight: 400;
 }
