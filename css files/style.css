@@ -37,7 +37,7 @@ button:hover {
 }
 
 .nav-item {
-    font-size: 1.5vw;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
@@ -72,13 +72,13 @@ button:hover {
 }
 
 .inflation h2 {
-    font-size: 4vw;
+    font-size: 4rem;
     font-weight: 600;
     margin-bottom: 2vh;
 }
 
 .inflation p {
-    font-size: 1.5vw;
+    font-size: 1.25rem;
     font-weight: 400;
 }
 
@@ -106,13 +106,13 @@ button:hover {
 }
 
 .news h2 {
-    font-size: 4vw;
+    font-size: 4rem;
     font-weight: 600;
     margin-bottom: 2vh;
 }
 
 .news p {
-    font-size: 1.5vw;
+    font-size: 1.25rem;
     font-weight: 400;
 }
 
@@ -163,12 +163,12 @@ button:hover {
   
 .popup .content h1 {
     font-weight: 600;
-    font-size: 4vw;
+    font-size: 4rem;
 }
 
 .popup .content p {
     font-weight: 400;
-    font-size: 2vw;
+    font-size: 2rem;
 }
   
 .popup .content {
@@ -215,7 +215,7 @@ button:hover {
     height: 20px;
     background: black;
     color: white;
-    font-size: 25px;
+    font-size: 1rem;
     font-weight: 600;
     text-align: center;
     border-radius: 50%;
@@ -230,6 +230,60 @@ button:hover {
     transform: translate(-50%, -50%) scale(1);
 }
 
+/* About */
+.about {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 100vw;
+    background-color: rgb(12, 12, 12);
+    padding: 20px;
+    margin-top: 0;
+    margin-bottom: 5vh;
+    border-bottom: 2px solid rgb(189, 189, 189);
+}
+
+.about h2 {
+    font-size: 4rem;
+    font-weight: 600;
+    margin-bottom: 2vh;
+}
+
+.about p {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.about-container {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 100vw;
+    background-color: rgb(12, 12, 12);
+    padding: 5vw;
+    margin-top: 0;
+    margin-bottom: 5vh;
+    border-bottom: 2px solid rgb(189, 189, 189);
+}
+
+.about-container h2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+}
+  
+.about-container p {
+    padding: 0.4rem;
+    font-size: 1.5rem;
+    padding-bottom: 10vh;
+}
+  
 /* Footer */
 
 .footer {
