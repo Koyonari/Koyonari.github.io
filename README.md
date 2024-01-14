@@ -8,4 +8,7 @@
 >- 4th news article: https://www.channelnewsasia.com/business/boj-seen-sticking-forecast-inflation-staying-near-target-sources-say-4043551
 >- 5th news article: https://www.businesstimes.com.sg/international/indias-retail-inflation-rises-four-month-high-december-higher-food-prices
 >- 6th news article: https://apnews.com/article/inflation-prices-interest-rates-economy-federal-reserve-cf51946cbd00f89509a97ea041b515e6
->- 7th news article: 
+>- 7th news article and stats: https://www.bbc.com/news/business-67940747
+>- 8th news article: https://www.theguardian.com/business/2024/jan/11/bank-of-england-may-cut-interest-rate-sooner-after-surprise-inflation-forecast
+>- 9th news article: https://www.theguardian.com/commentisfree/2024/jan/08/australias-cost-of-living-crisis-isnt-about-the-price-of-groceries-its-about-the-distribution-of-wealth
+>- 
