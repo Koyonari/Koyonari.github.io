@@ -11,4 +11,6 @@
 >- 7th news article and stats: https://www.bbc.com/news/business-67940747
 >- 8th news article: https://www.theguardian.com/business/2024/jan/11/bank-of-england-may-cut-interest-rate-sooner-after-surprise-inflation-forecast
 >- 9th news article: https://www.theguardian.com/commentisfree/2024/jan/08/australias-cost-of-living-crisis-isnt-about-the-price-of-groceries-its-about-the-distribution-of-wealth
->- 
+>- 10th news article and stats: https://www.theguardian.com/business/2024/jan/06/uk-businesses-going-bust-covid-brexit
+>- 11th news article: https://www.theguardian.com/business/2024/jan/10/danone-to-cut-7-off-wholesale-price-of-powdered-aptamil-baby-formula
+>- 12th news article: https://www.businesstimes.com.sg/singapore/economists-expect-mas-stand-pat-january-review-amid-easing-headline-core-inflation

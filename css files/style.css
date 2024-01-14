@@ -150,7 +150,7 @@ button:hover {
 .button:hover {
     color:rgb(222, 222, 222);
 }
-  
+
 .popup .overlay {
     position:fixed;
     top: 0px;
@@ -228,4 +228,105 @@ button:hover {
 .popup.active .content {
     transition: all 300ms ease-in-out;
     transform: translate(-50%, -50%) scale(1);
+}
+
+/* Footer */
+
+.footer {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.footer-container {
+    width: 100%;
+    margin-top: 15vh;
+    padding-top: 3vh;
+    background-color: black;
+}
+
+.socialcons {
+    display: flex;
+    justify-content: center;
+}
+
+.socialcons a {
+    font-size: 0.75rem;
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+    text-align: center;
+    width: 3rem;
+}
+
+.socialcons a i {
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+}
+
+.socialcons a:hover {
+    background-color: black;
+    transition: 0.5s;
+}
+
+.socialcons a i:hover {
+    color: white;
+    transition: 0.5s;
+}
+
+.footernav {
+    margin-top: 10px;
+}
+
+.footernav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: disc;
+}
+
+.footernav ul li a{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1rem;
+    opacity: 0.7;
+    transition: 0.5s;
+    align-items: center;
+}
+
+.footernav ul li a:hover{
+    opacity: 1;
+}
+
+.footerbottom {
+    background-color: black;
+    padding: 1vh;
+    text-align: center;
+}
+
+.footerbottom p {
+    color: white;
+}
+
+.designer {
+    opacity: 1;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin: 0;
+}
+
+@media (max-width: 700px) {
+    .socialcons a {
+        font-size: 0.5rem;
+        width: 2.5rem;
+    }
+    .footer-container {
+        padding-top: 2vh;
+    }
+    .footernav ul li {
+        text-align: center;
+    }
 }
