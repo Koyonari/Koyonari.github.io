@@ -2,6 +2,7 @@
 
 > References:
 >- 1st Profile Picture: https://www.zerochan.net/3228849
+>- Background picture for forum page: https://www.peakpx.com/en/hd-wallpaper-desktop-eintp
 >- 1st news article and stats: https://www.ft.com/content/368c3193-043c-4fef-95a5-751bce4e0699 
 >- 2nd news article: https://www.straitstimes.com/world/venezuelas-2023-inflation-hit-nearly-190-but-december-prices-barely-ticked-up
 >- 2nd news article stats: https://www.cato.org/blog/results-are-imfs-venezuela-inflation-guesstimate-was-way
