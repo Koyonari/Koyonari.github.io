@@ -1,6 +1,8 @@
 ## Price.io - A website made by Yong Shyan and Jake to track Inflation rates around the globe
 
 > References:
+>- World Map SVG: https://simplemaps.com/resources/svg-world
+>#
 >- 1st Profile Picture: https://www.zerochan.net/3228849
 >- 2nd Profile Picture: https://twitter.com/jojo_wiki/status/1184378001246449666
 >- 3rd Profile Picture: https://danbooru.donmai.us/posts?tags=irene_%28jojo%29
