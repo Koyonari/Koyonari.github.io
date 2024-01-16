@@ -575,3 +575,236 @@ main .right .recommended-communities h3 {
         padding-top: 5.525rem;
     }
 }
+
+/* Overlay */
+.overlay {
+    all: revert;
+    position: fixed;
+    inset: 0;
+    transition: opacity 0.5s, visibility 0.5s;
+    background-color: rgba(0, 0, 0, 0.699);
+    z-index: 999;
+    padding: 0 1.5rem;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.login {
+    position: relative;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    max-width: 80rem;
+    width: 100%;
+    margin: 10vh auto auto;
+    box-shadow: 0 0.5rem 1.5rem 0 rgba(255, 255, 255, 0.5);
+    overflow: hidden;
+}
+
+.login .top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.login .top h2 {
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 2.3rem;
+    color: rgb(255, 255, 255);
+}
+
+.login .top i {
+    font-size: var(--fs24);
+    color: rgb(251, 251, 251);
+    cursor: pointer;
+}
+
+.login .row .content {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.login .row .content .login-left,
+.login .row .content .login-right {
+    flex: 1;
+}
+
+.login .row .content .login-right img {
+    width: 2rem;
+    height: auto;
+    object-fit: cover;
+}
+
+.login .row .content .login-left {
+    position: relative;
+    padding-top: 3rem;
+    order: 3;
+}
+
+
+.login .row .content .login-left button {
+    color: rgb(255, 255, 255);
+    background-color: red;
+}
+
+.login .row .content .login-left form .form-group div i {
+    color: rgb(3, 3, 3);
+}
+
+.login .row .content .login-left form .form-group div i:hover {
+    transition: var(--transition);
+    border-radius: 3rem;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.login .row .content .login-left form input:not([type = "checkbox"]) {
+    display: block;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.3rem;
+    font-size: 1.2rem;
+    padding: 1rem 1.5rem;
+    width: 100%;
+    line-height: 1rem;
+}
+
+.login .row .content .login-left form .form-group {
+    position: relative;
+    margin-top: 1rem;
+}
+
+.login .row .content .login-left form .form-group div {
+    position: absolute;
+    height: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1rem;
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    gap: 0.5rem;
+    padding-left: 1rem;
+    cursor: pointer;
+}
+
+.login .row .content .login-left a,
+.login .row .content .login-right .btn {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.login .row .content .login-right .btn {
+    border: 1px solid white;
+    margin: 1rem 0;
+    padding: 0.5rem 0.5rem;
+    height: 5vh;
+}
+
+.login .row .content .login-left a:hover,
+.login .row .content .login-right .btn:hover {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.3rem;
+}
+
+.login .row .content .login-left form a{
+    display: block;
+    margin-top: 1rem;
+}
+
+.login .row .content .login-left .remember{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.login .row .content .login-left .remember label {
+    color: white;
+}
+
+.login .row .content .login-left .btn,
+.login .row .content .login-right .btn  {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login .row .content .login-left .btn-login {
+    min-width: 8rem;
+    margin-top: 3rem;
+    width: 100%;
+    transition: var(--transition);
+    font-weight: 600;
+}
+
+.login .row .content .login-left .btn-login:hover {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.login .row .content .login-right {
+    order: 1;
+    padding-bottom: 3rem;
+}
+
+.login .row .content .line::before {
+    content: "";
+    position: absolute;
+    width: 95%;
+    height: 0.1rem;
+    background-color: rgb(255, 255, 255);
+    top: 10.25rem;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.login .row .content .line::after {
+    content: "or";
+    position: absolute;
+    top: 9.25rem;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 1rem;
+    width: 2rem;
+    height: 2rem;
+    text-align: center;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login .row .content .login-right .btn {
+    display: flex;
+    background-color: transparent;
+    text-align: center;
+}
+
+.login .row .content .login-right .btn span {
+    flex: auto;
+    text-align: center;
+}
+
+.login .row .content .login-right .btn img {
+    width: 1rem;
+}
+
+.login .row .content .login-right .btn {
+    display: flex;
+}
