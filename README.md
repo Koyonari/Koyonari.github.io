@@ -13,10 +13,12 @@
 >- 10th Profile Picture: https://pfptown.com/power-pfp
 >- 11th Profile Picture: https://www.pinterest.com/pin/jjk-megumi-fushiguro--679199187555631482/
 >- 12th Profile Picture: https://www.pxfuel.com/en/desktop-wallpaper-adgin
+>#
 >- 1st Forum Picture: https://www.freepik.com/vectors/blockchain-logo
 >- 2nd Forum Picture: https://www.cryptopolitan.com/1b-in-bitcoin-moved-is-40k-the-next-stop/
 >- 3rd Forum Picture: https://animal-world.com/fantail-goldfish/
 >- Background picture for forum page: https://www.peakpx.com/en/hd-wallpaper-desktop-eintp
+>#
 >- 1st news article and stats: https://www.ft.com/content/368c3193-043c-4fef-95a5-751bce4e0699 
 >- 2nd news article: https://www.straitstimes.com/world/venezuelas-2023-inflation-hit-nearly-190-but-december-prices-barely-ticked-up
 >- 2nd news article stats: https://www.cato.org/blog/results-are-imfs-venezuela-inflation-guesstimate-was-way
@@ -30,3 +32,4 @@
 >- 10th news article and stats: https://www.theguardian.com/business/2024/jan/06/uk-businesses-going-bust-covid-brexit
 >- 11th news article: https://www.theguardian.com/business/2024/jan/10/danone-to-cut-7-off-wholesale-price-of-powdered-aptamil-baby-formula
 >- 12th news article: https://www.businesstimes.com.sg/singapore/economists-expect-mas-stand-pat-january-review-amid-easing-headline-core-inflation
+>#
