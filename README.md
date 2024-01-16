@@ -2,6 +2,20 @@
 
 > References:
 >- 1st Profile Picture: https://www.zerochan.net/3228849
+>- 2nd Profile Picture: https://twitter.com/jojo_wiki/status/1184378001246449666
+>- 3rd Profile Picture: https://danbooru.donmai.us/posts?tags=irene_%28jojo%29
+>- 4th Profile Picture: https://deathbattle.fandom.com/wiki/Asta
+>- 5th Profile Picture: https://www.superherodb.com/maki-zenin/10-24350/
+>- 6th Profile Picture: https://joke-battles.fandom.com/wiki/Jogoat
+>- 7th Profile Picture: https://www.pxfuel.com/en/desktop-wallpaper-adgin
+>- 8th Profile Picture: https://www.pinterest.com/pin/tsunade--659214464210359963/
+>- 9th Profile Picture: https://www.reddit.com/r/FFVIIRemake/comments/j2lqd3/no_spoilers_tifa_by_trnyteal/?rdt=49339
+>- 10th Profile Picture: https://pfptown.com/power-pfp
+>- 11th Profile Picture: https://www.pinterest.com/pin/jjk-megumi-fushiguro--679199187555631482/
+>- 12th Profile Picture: https://www.pxfuel.com/en/desktop-wallpaper-adgin
+>- 1st Forum Picture: https://www.freepik.com/vectors/blockchain-logo
+>- 2nd Forum Picture: https://www.cryptopolitan.com/1b-in-bitcoin-moved-is-40k-the-next-stop/
+>- 3rd Forum Picture: https://animal-world.com/fantail-goldfish/
 >- Background picture for forum page: https://www.peakpx.com/en/hd-wallpaper-desktop-eintp
 >- 1st news article and stats: https://www.ft.com/content/368c3193-043c-4fef-95a5-751bce4e0699 
 >- 2nd news article: https://www.straitstimes.com/world/venezuelas-2023-inflation-hit-nearly-190-but-december-prices-barely-ticked-up
