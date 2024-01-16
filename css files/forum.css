@@ -293,6 +293,11 @@ main {
 }
 
 /* Thread */
+main .left {
+    transition: var(--transition);
+    all: revert;
+}
+
 main .left h2 {
     font-size: var(--fs24);
     color: rgb(255, 255, 255);
@@ -547,13 +552,13 @@ main .right .recommended-communities h3 {
     margin-bottom: 0.5rem;
 }
 
-@media (min-width: 649px) {
+@media(min-width: 649px) {
     main .left .inner-left .box .img {
         display: block;
     }
 }
 
-@media (min-width: 910px) {
+@media(min-width: 910px) {
     main .row {
         display: flex;
     }
@@ -565,8 +570,8 @@ main .right .recommended-communities h3 {
     main .row .right {
         display: block;
         flex-shrink: 0;
-        width: 30rem;
+        width: 25rem;
         margin-left: 1.8rem;
-        padding-top: 6.4rem;
+        padding-top: 5.525rem;
     }
 }
