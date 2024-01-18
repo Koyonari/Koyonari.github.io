@@ -1,5 +1,22 @@
 ## Price.io - A website made by Yong Shyan and Jake to track Inflation rates around the globe
 
+### Introduction:
+In response to the escalating global inflation crisis, we, a team of two young developers, envisioned a website empowering users to navigate this complex economic landscape. Enter: Price.io, your interactive portal to real-time data, timely news, and engaging community discussions.
+
+Our platform seamlessly blends functionality with intuitive design. Explore inflation rates across the globe on our interactive map, stay informed with curated news updates, connect with fellow enthusiasts in our forum, and learn more about our vision on the dedicated About page. Price.io: Bridging the gap between knowledge and action in a world marked by economic uncertainty.
+
+### Technicalities
+Overview: Price.io is a responsive multi-page website tailored for optimal user experience. We leverage Bootstrap’s robust framework for a dynamic navigation bar that seamlessly adapts to various screen sizes. Recognizing the growing preference for dark interfaces, we opted for a dark theme that prioritizes eye comfort even during extended screen time. Each page header features subtle JavaScript-powered animations, injecting a touch of dynamism into the platform. Responsive text sizes (achieved through REM units in CSS) further enhance user comfort across devices. Finally, a responsive footer conveniently anchors every page.
+
+Home: This page serves as your gateway to exploring global inflation trends. Click on supported countries on our interactive SVG world map, and watch it become highlighted in white while displaying its corresponding name via xlink:title. Upon clicking a highlighted country (rendered in gray for clarity), an API from API Ninjas retrieves relevant inflation data, displayed in the dedicated bottom box. The power of JavaScript and getElementById makes these dynamic interactions possible.
+
+News: Stay informed with Price.io’s curated newsfeed, featuring relevant articles presented in Bootstrap-powered containers. Click on any headline to show the full article within a sleek popup window.
+
+Forum: Engage with the community! Discuss relevant topics, explore existing forums, and discover top contributors, all conveniently accessible through a dedicated search bar and intuitive login page. Mobile users enjoy an optimized experience, with discussion images and the right-hand side of the screen gracefully adapting to smaller screens.
+
+About: This page unveils the story behind Inflation Hub, introducing our young developer team and the passion that fuels our work.
+
+
 > References:
 >- World Map SVG: https://simplemaps.com/resources/svg-world
 >#
