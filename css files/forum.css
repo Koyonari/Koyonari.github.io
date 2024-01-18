@@ -167,8 +167,10 @@ main {
 }
 
 .header .row .header-content .logo img {
-    height: 4rem;
-    width: 10rem;
+    height: 2rem;
+    width: auto;
+    margin-top: 1rem;
+    display: flex;
 }
 
 .header .row .header-content .nav-search {
@@ -188,7 +190,7 @@ main {
 
 .header .row .header-content .nav-search .form-group input {
     height: 4rem;
-    padding-left: 2rem;
+    padding-left: 1rem;
     border-radius: 0.4rem;
     font-size: var(--fs14);
     background-color: rgb(39, 39, 39);
@@ -262,7 +264,7 @@ main {
 
     .header .row .header-content .logo img {
         height: 4.5rem;
-        width: 16rem;
+        width: auto;
     }
 
     .header .row .header-content .nav-search {
