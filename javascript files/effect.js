@@ -18,6 +18,6 @@ window.addEventListener("DOMContentLoaded", () => {
     if (iterations >= h2Element.dataset.value.length) {
       clearInterval(interval);
     }
-    iterations += 1 / 7;
+    iterations += 1 / 10;
   }, 12);
 });
