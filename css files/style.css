@@ -185,6 +185,7 @@ svg path:hover {
     font-size: 1.3rem;
     font-weight: 400;
     margin-bottom: 2vh;
+    padding-bottom: 2vh;
 }
 
 .news-article {
