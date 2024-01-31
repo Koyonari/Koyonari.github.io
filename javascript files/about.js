@@ -10,9 +10,4 @@ setTimeout(() => {
   preloader.style.display = 'none'; // Hide preloader after 2 seconds
   document.getElementById('main-content').style.display = 'flex';
   document.body.style.overflow = 'auto'; // Re-enable scrollbars
-}, 1700);
-
-//News Popup
-function togglePopup(popupid) {
-    document.getElementById(popupid).classList.toggle("active");
-}
+}, 2100);
