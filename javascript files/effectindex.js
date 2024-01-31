@@ -22,5 +22,5 @@ window.addEventListener("DOMContentLoaded", () => {
       }
       iterations += 1 / 10;
     }, 10);
-  }, 1400); // Delay until lottie ends
+  }, 1700); // Delay until lottie ends
 });

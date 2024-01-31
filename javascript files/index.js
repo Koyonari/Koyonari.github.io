@@ -10,7 +10,7 @@ setTimeout(() => {
   preloader.style.display = 'none'; // Hide preloader after 2 seconds
   document.getElementById('main-content').style.display = 'flex';
   document.body.style.overflow = 'auto'; // Re-enable scrollbars
-}, 1400);
+}, 1700);
 
 //API Implementation
 const apikey = "AWRb+qRVNf59POxj0dPR/w==KHVLxw9b8aGM6hKw";
