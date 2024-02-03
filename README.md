@@ -6,7 +6,7 @@ In response to the escalating global inflation crisis, we, a team of two young d
 Our platform blends functionality with intuitive design. Explore inflation rates across the globe on our interactive map, stay informed with curated news updates, connect with fellow enthusiasts in our forum, and learn more about our vision on the dedicated About page. Price.io: Bridging the gap between knowledge and action in a world marked by economic uncertainty.
 
 ## Technicalities
-Overview: Price.io is a responsive multi-page website tailored for optimal user experience with our user audience being traders, investors, salesmen and everyone in between that has the need to delve deeper into the economics of the world. We utilised Bootstrap’s robust framework for a responsive navigation bar that seamlessly adapts to various screen sizes using a burger menu. Recognizing the growing preference for dark interfaces, we opted for a dark theme that prioritizes eye comfort even during extended screen time as most of our users tend to be glued to the screen for long periods of time. We have also used the 60-30-10 colour rule to make the site more aesthetically pleasing, choosing yellow as the accent colour as it gives users a sense of happiness and think of profit. Each page header features subtle JavaScript animations, breathing life into the platform. Responsive text sizes (achieved through REM units in CSS) further enhance user comfort across devices. Finally, a responsive footer conveniently anchors every page.
+Overview: Price.io is a responsive multi-page website using the mobile first approach, tailored for optimal user experience with our user audience being traders, investors, salesmen and everyone in between that has the need to delve deeper into the economics of the world. We utilised Bootstrap’s robust framework for a responsive navigation bar that seamlessly adapts to various screen sizes using a burger menu. Recognizing the growing preference for dark interfaces, we opted for a dark theme that prioritizes eye comfort even during extended screen time as most of our users tend to be glued to the screen for long periods of time. We have also used the 60-30-10 colour rule to make the site more aesthetically pleasing, choosing yellow as the accent colour as it gives users a sense of happiness and think of profit. Each page header features subtle JavaScript animations, breathing life into the platform. Responsive text sizes (achieved through REM units in CSS) further enhance user comfort across devices. Finally, a responsive footer conveniently anchors every page.
 
 Home: This page serves as your gateway to exploring global inflation trends. Click on supported countries in grey on our interactive SVG world map, and it will turn white while displaying its corresponding name via xlink:title at the bottom. Upon clicking a highlighted country (rendered in grey), an API from API Ninjas retrieves relevant inflation data, displayed in the dedicated bottom box. The power of JavaScript and getElementById makes these interactions possible.
 
@@ -19,6 +19,8 @@ About: This page unveils the story behind Inflation Hub, introducing our young d
 >#
 >### References:
 >- World Map SVG: https://simplemaps.com/resources/svg-world
+>#
+>- Quiz Questions & Answers: https://www.proprofs.com/quiz-school/story.php?title=finance-aptitute-test-sep-2016
 >#
 >- 1st Profile Picture: https://www.zerochan.net/3228849
 >- 2nd Profile Picture: https://twitter.com/jojo_wiki/status/1184378001246449666

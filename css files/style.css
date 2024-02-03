@@ -171,6 +171,134 @@ svg path:hover {
     stroke-width: 0.5;
 }
 
+.quizsec {
+    background: white;
+    width: 60rem;
+    height: 20rem;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+    border: 3px solid black;
+    transition: 0.4s;
+}
+
+.center-container {
+    text-align: center;
+    transition: 0.4s;
+}
+
+#start-quiz {
+    background: black;
+    color: white;
+    font-weight: 600;
+    font-size: 3rem;
+    width: 20rem;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s;
+    border: solid 2px black;
+}
+
+.quiz {
+    display: none;
+}
+
+@media screen and (max-width: 768px){
+    .quizsec {
+        width: 95%;
+        height: 30rem;
+    }
+    .quizsec h1 {
+        font-size: 1.5rem;
+    }
+    .quizsec h2 {
+        font-size: 0.5rem;
+    }
+}
+
+.quizsec h1 {
+    font-size: 4rem;
+    color: black;
+    font-weight: 600;
+    padding-bottom: 2vh;
+    border-bottom: 1px solid grey;
+}
+
+.quizsec h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 2vh;
+}
+
+.quizbtn {
+    background: white;
+    color: black;
+    font-weight: 400;
+    font-size: 1.75rem;
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.quizbtn:hover:not([disabled]) {
+    background: black;
+    color: white;
+    transition: 0.4s;
+}
+
+.quizbtn:disabled {
+    cursor: no-drop;
+}
+
+#next-btn {
+    background: black;
+    color: white;
+    font-weight: 600;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.4s;
+    border: solid 2px black;
+    display: none;
+}
+
+#next-btn:hover {
+    background: rgb(83, 83, 83);
+    transition: 0.4s;
+}
+
+.correct {
+    background: rgb(1, 182, 1);
+    color: white;
+    transition: 0.3s;
+}
+
+.incorrect {
+    background: rgba(252, 32, 32, 0.956);
+    color: black;
+    transition: 0.3s;
+}
+
+.correct:hover {
+    background: rgb(1, 182, 1);
+}
+
+.incorrect:hover {
+    background: red;
+    color: black;
+}
+
 /* News */
 .news {
     color: white;
