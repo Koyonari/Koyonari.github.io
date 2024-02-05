@@ -99,13 +99,13 @@ input:focus::placeholder {
 
 .buttons .btn-secondary {
     background-color: white;
-    border: 0.2rem solid rgb(55, 78, 255);
+    border: 0.2rem solid blue;
     color: black;
 }
 
 .buttons .btn-secondary:hover {
-    background-color: rgb(55, 78, 255);
-    border: 0.2rem solid rgb(55, 78, 255);
+    background-color: rgb(27, 53, 255);
+    border: 0.2rem solid blue;
     color: white;
 }
 
@@ -150,7 +150,6 @@ main {
     left: 0;
     bottom: -11rem;
     width: 100%;
-    background-color: rgba(0, 0, 0,);
     --bs-gutter-x: 0;
 }
 
@@ -352,7 +351,6 @@ main .left .inner-left .box .details .sub-details {
 
 main .left .inner-left .box .details .sub-details span {
     color: rgb(232, 232, 232);
-    text-align: vertical;
     font-size: 1rem;
 }
 
