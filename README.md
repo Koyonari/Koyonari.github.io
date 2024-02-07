@@ -14,7 +14,7 @@ News: Stay informed with Price.io’s newsfeed, featuring relevant articles pres
 
 Forum: Engage with the community, discuss relevant topics, explore existing forums, and discover top contributors, all through a dedicated search bar and intuitive login page. Mobile users enjoy an optimized experience, with discussion images and the right-hand side of the screen gracefully adapting to smaller screens.
 
-About: This page unveils the story behind Inflation Hub, introducing our young developer team and the passion that fuels our work.
+About: This page unveils the story behind Price.io, introducing our young developer team and the passion that fuels our work.
 
 >#
 >### References:
