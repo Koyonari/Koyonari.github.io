@@ -52,6 +52,10 @@
     </nav>
 
     <!-- Forum section -->
+    <div class = "loginstatusbox" id = "loginbox">
+      <p id = "loginstatus">Login status!</p>
+    </div>
+
     <div class = "forum">
       <h2 data-value = "FORUM">FORUM</h2>
       <p>Discuss and share your thoughts with the community</p>
@@ -510,19 +514,19 @@
           <div class = "content">
             <div class = "login-left">
               <form action = "#">
-                <input type = "text" placeholder = "Username">
+                <input type = "text" id="account-username" placeholder = "Username">
                 <div class = "form-group">
-                  <input type = "password" placeholder = "Password">
+                  <input type = "password" id="account-password" placeholder = "Password">
                   <div>
                     <i class = "fa-regular fa-eye"></i>
                   </div>
                 </div>
-                <a href = "#">Forget your password?</a>
+                <a>Forget your password?</a>
                 <div class="remember">
                   <input type="checkbox" id="remember" name="remember" value="1" checked>
                   <label for="remember">Remember me</label>
                 </div>
-                <button type = "submit" class = "btn btn-login">Login</button>
+                <button type = "submit" id="contact-submit" class = "btn btn-login">Login</button>
               </form>
             </div>
           <div class = "line">

@@ -1,9 +1,16 @@
 # Price.io - Tracking inflation rates across the globe by Yong Shyan and Jake
 
-## Introduction:
+## Introduction
 In response to the escalating global inflation crisis, we, a team of two young developers - An Yong Shyan and Jake Chan Man Lock, has crafted a website for users to navigate this complex economic landscape. Price.io, your interactive portal to real-time data, timely news, and engaging community discussions.
 
 Our platform blends functionality with intuitive design. Explore inflation rates across the globe on our interactive map, stay informed with curated news updates, connect with fellow enthusiasts in our forum, and learn more about our vision on the dedicated About page. Price.io: Bridging the gap between knowledge and action in a world marked by economic uncertainty.
+
+| Page | Description |
+| ----------- | ----------- |
+| Home | Interactive Map & Quiz |
+| News | Grid News Containers  |
+| Forum | Discussion Threads & Login Page |
+| About | Background information on the website and team |
 
 ## Technicalities
 Overview: Price.io is a responsive multi-page website using the mobile first approach, tailored for optimal user experience with our user audience being traders, investors, salesmen and everyone in between that has the need to delve deeper into the economics of the world. We have included a quiz section in the home page to boost users' retention rate and to gamify our platform. We utilised Bootstrap’s robust framework for a responsive navigation bar that seamlessly adapts to various screen sizes using a burger menu. Recognizing the growing preference for dark interfaces, we opted for a dark theme that prioritizes eye comfort even during extended screen time as most of our users tend to be glued to the screen for long periods of time. We have also used the 60-30-10 colour rule to make the site more aesthetically pleasing, choosing yellow as the accent colour as it gives users a sense of happiness and profit. Each page header features subtle JavaScript animations, breathing life into the platform. Responsive text sizes (achieved through REM units in CSS) further enhance user comfort across devices. Finally, a responsive footer conveniently anchors every page.
@@ -12,7 +19,7 @@ Home: This page serves as your gateway to exploring global inflation trends. Cli
 
 News: Stay informed with Price.io’s newsfeed, featuring relevant articles presented in Bootstrap-powered containers. Click on any headline to show the full article within a sleek popup window, possible only with Javascript.
 
-Forum: Engage with the community, discuss relevant topics, explore existing forums, and discover top contributors, all through a dedicated search bar and intuitive login page. Mobile users enjoy an optimized experience, with discussion images and the right-hand side of the screen gracefully adapting to smaller screens.
+Forum: Engage with the community, discuss relevant topics, explore existing forums, and discover top contributors, all through a dedicated search bar and intuitive login page. Mobile users enjoy an optimized experience, with discussion images and the right-hand side of the screen gracefully adapting to smaller screens. The login page will also check if the password and username is correct. If it is correct, a sign saying "Login Successful!" will be shown, if not, it will be "Login Unsuccessful!".
 
 About: This page unveils the story behind Price.io, introducing our young developer team and the passion that fuels our work.
 
