@@ -23,6 +23,9 @@ Forum: Engage with the community, discuss relevant topics, explore existing foru
 
 About: This page unveils the story behind Price.io, introducing our young developer team and the passion that fuels our work.
 
+## Video pitch: https://youtu.be/YhkmrSl09l8
+
+
 >#
 >### References:
 >- World Map SVG: https://simplemaps.com/resources/svg-world
